@@ -1,5 +1,2 @@
 # One-code-asia-bootcamp-git-exercise
 1st bootcamp exercise
-
-Hello this is my first commit ! 
-Git is Fun!
